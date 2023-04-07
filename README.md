@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Janna Barbosa
+### Hi there 👋 , I'm Janna 
 
 <!--
 **JannaBarbosa/JannaBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
